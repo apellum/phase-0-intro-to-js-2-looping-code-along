@@ -1,4 +1,48 @@
-const names = ["Lisa", "Kaitlin", "Jan"];
+const names = [ 'Lisa', 'Kaitlin', 'Jan' ['surprise']]
+
+const writeCards = name => { 
+    const thankYouMessage = `Thank you ${name} for the wonderful ${name[3]} gift`
+    return thankYouMessage
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*const names = ["Lisa", "Kaitlin", "Jan"];
 function writeCards(names) {
     let newNames = [];
     for (let i = 0; i < names.length; i++)[
@@ -11,4 +55,4 @@ function countDown(number) {
     while (countDown >= 0) {
         console.log(countDown--);
 }
-}
+}*/
